@@ -29,7 +29,7 @@ const Button = ({
   return (
     <button
       disabled={disabled}
-      className={`${radiusStyles[rounded]} ${variantStyles[variant]} text-white py-4 px-12 whitespace-nowrap ${className}`}
+      className={`${radiusStyles[rounded]} ${variantStyles[variant]} text-white py-3 px-8 whitespace-nowrap ${className}`}
       {...props}
     >
       {children}

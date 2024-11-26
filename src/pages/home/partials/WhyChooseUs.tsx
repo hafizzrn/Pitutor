@@ -10,7 +10,7 @@ const WhyChooseUs = () => {
         <h1 className="text-[24px] md:text-[50px] font-semibold">
           Kenapa memilih kami?
         </h1>
-        <p className="text-base md:text-xl text-[#00000099\">
+        <p className="text-base text-[18px] text-[#00000066]">
           Program les privat online dari Pitutor dirancang paripurna untuk
           setiap kebutuhan belajar.
         </p>
@@ -21,7 +21,7 @@ const WhyChooseUs = () => {
           <span className="text-lg md:text-2xl text-primary ">
             Satu Guru Satu Murid
           </span>
-          <p className="text-base md:text-xl">
+          <p className="text-base text-[16px] font-normal">
             Program les privat online dari Pitutor privat dirancang satu tutor
             satu siswa. Bukan pembelajaran kelompok dengan beberapa siswa dalam
             satu proses belajar.
@@ -32,7 +32,7 @@ const WhyChooseUs = () => {
           <span className="text-lg md:text-2xl text-primary ">
             Online & Interaktif
           </span>
-          <p className="text-base md:text-xl">
+          <p className="text-base text-[16px] font-normal">
             Kegiatan belajar online dirancang interaktif. Sehingga walaupun KBM
             dilaksanakan secara daring, siswa bisa berinteraksi langsung dengan
             guru.
@@ -43,7 +43,7 @@ const WhyChooseUs = () => {
           <span className="text-lg md:text-2xl text-primary ">
             Personalized Learning{" "}
           </span>
-          <p className="text-base md:text-xl">
+          <p className="text-base text-[16px] font-normal">
             Pitutor membantu siswa mencapai potensi terbaik dengan pendekatan
             yang disesuaikan.
           </p>

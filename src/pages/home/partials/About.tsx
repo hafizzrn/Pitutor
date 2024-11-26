@@ -15,7 +15,7 @@ const About = () => {
           </h1>
         </div>
         <div className="mt-8 md:mt-16 flex flex-col items-center xl:items-start gap-12">
-          <p className="text-base md:text-xl">
+          <p className="text-base">
             Kami memahami setiap siswa memiliki gaya belajar yang berbeda dan
             unik. Sebagian lebih cocok belajar dalam kelompok, sebagian lagi
             membutuhkan bimbingan personal oleh tutor, sebagian lebih efektif

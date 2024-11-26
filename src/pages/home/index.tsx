@@ -4,6 +4,8 @@ import ImageSection from "./partials/ImageSection";
 import WhyChooseUs from "./partials/WhyChooseUs";
 import Quotes from "./partials/Quotes";
 import About from "./partials/About";
+import Service from "./partials/Service";
+import Testimoni from "./partials/Testimoni";
 
 const HomePage = () => {
   return (
@@ -13,6 +15,8 @@ const HomePage = () => {
       <WhyChooseUs />
       <Quotes />
       <About />
+      <Service />
+      <Testimoni/>
     </>
   );
 };

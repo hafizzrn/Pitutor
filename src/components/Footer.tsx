@@ -1,12 +1,12 @@
 import { FaFacebookF, FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa";
-import logo from "./../assets/Logo-putih.png";
+import logoFooter from "../assets/logo-putih.png";
 
 const Footer = () => {
   return (
     <footer className="bg-[#343434] text-white py-10 px-6 md:px-12 lg:px-30">
       <div className="max-w-7xl container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
         <div>
-          <img src={logo} alt="" />
+          <img src={logoFooter} alt="" />
           <p className="mb-4 text-[14px] font-normal mt-4">Jl. Veteran Ketawanggede, 
             <br/>Kec. Lowokwaru, Kota Malang, Jawa Timur</p>
           <p className="text-[14px] font-normal text-[#767676]">&copy;2024, Pitutor Development Tech Team</p>

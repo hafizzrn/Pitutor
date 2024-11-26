@@ -12,7 +12,7 @@ const Footer = () => {
           <p className="text-[14px] font-normal text-[#767676]">&copy;2024, Pitutor Development Tech Team</p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
           <div>
             <h4 className="text-[12px] font-normal text-[#767676] mb-4">About Us</h4>
             <ul className="text-[14px] space-y-1">

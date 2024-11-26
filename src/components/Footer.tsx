@@ -1,4 +1,4 @@
-// import { FaFacebookF, FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa";
 import logo from "./../assets/Logo-putih.png";
 
 const Footer = () => {
@@ -77,7 +77,7 @@ const Footer = () => {
             <h4 className="text-[12px] font-normal text-[#767676] mb-4">Contact</h4>
             <p className="text-[14px] mb-2">+081234567890</p>
             <p className="text-[14px] mb-4">+081234567890</p>
-            {/* <div className="flex space-x-4">
+            <div className="flex space-x-4">
               <a href="#" className="p-2 bg-gray-700 hover:bg-gray-600 rounded-full">
                 <FaFacebookF />
               </a>
@@ -90,7 +90,7 @@ const Footer = () => {
               <a href="#" className="p-2 bg-gray-700 hover:bg-gray-600 rounded-full">
                 <FaYoutube />
               </a>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>

@@ -14,7 +14,7 @@ const Service = () => {
         <h1 className="text-[24px] md:text-[50px] font-bold">
           Pilihan Privat Online Terbaik
         </h1>
-        <p className="text-base text-[18px] md:text-[24px] text-[#00000066]">
+        <p className="text-base text-[18px] text-[#00000066]">
           Program les privat online dari Pitutor dirancang paripurna untuk
           setiap kebutuhan belajar.
         </p>
@@ -26,7 +26,7 @@ const Service = () => {
             <span className="text-lg md:text-3xl text-black font-bold">
               1on1 Tutoring
             </span>
-            <p className="text-base text-xl text-[#404040]">
+            <p className="text-base text-[18px] text-[#404040]">
               Kegiatan belajar dirancang privat dan setiap satu siswa dibimbing
               satu tutor
             </p>
@@ -37,7 +37,7 @@ const Service = () => {
             <span className="text-lg md:text-3xl text-black font-bold">
               Tanya Tutor
             </span>
-            <p className="text-base text-xl text-[#404040]">
+            <p className="text-base text-[18px] text-[#404040]">
               Tanya jawab soal yang memungkinkan mahasiswa untuk bertanya
             </p>
           </div>
@@ -49,7 +49,7 @@ const Service = () => {
             <span className="text-lg md:text-3xl text-black font-bold">
               Pojok Prestasi
             </span>
-            <p className="text-base text-xl text-[#404040]">
+            <p className="text-base text-[18px] text-[#404040]">
               Melalui fitur Pojok Prestasi,
               <br />
               kamu bisa menemukan berbagai informasi.

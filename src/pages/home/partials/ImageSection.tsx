@@ -1,4 +1,3 @@
-import React from "react";
 import imageSectionMain from "./../../../assets/image-section.svg";
 import imageSectionBottom from "./../../../assets/image-section-bottom.png";
 

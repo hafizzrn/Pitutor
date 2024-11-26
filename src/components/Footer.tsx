@@ -1,4 +1,3 @@
-import React from "react";
 import { FaFacebookF, FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa";
 import logo from "./../assets/Logo-putih.png";
 

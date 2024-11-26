@@ -1,4 +1,3 @@
-import React from "react";
 import whyOne from "./../../../assets/why1.png";
 import whyTwo from "./../../../assets/why2.png";
 import whyThree from "./../../../assets/why3.png";

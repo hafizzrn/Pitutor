@@ -1,4 +1,3 @@
-import React from "react";
 import heroBgLeft from "./../../../assets/hero-bg-left.png";
 import heroBgRight from "./../../../assets/hero-bg-right.png";
 import Button from "../../../components/Button";

@@ -1,4 +1,3 @@
-import React from "react";
 import pic1 from "./../../../assets/Image-service1.svg";
 import pic2 from "./../../../assets/Image-service2.svg";
 import pic3 from "./../../../assets/Image-service3.svg";

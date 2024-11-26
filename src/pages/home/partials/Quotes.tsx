@@ -1,4 +1,3 @@
-import React from "react";
 import quoteImage from "../../../assets/quote.png";
 
 const Quotes = () => {

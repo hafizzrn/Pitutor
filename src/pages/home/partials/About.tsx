@@ -1,4 +1,3 @@
-import React from "react";
 import aboutImage from "../../../assets/about.svg";
 import Button from "../../../components/Button";
 const About = () => {

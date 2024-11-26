@@ -1,4 +1,3 @@
-import React from "react";
 import petik from "./../../../assets/petik.png";
 
 const Testimoni = () => {

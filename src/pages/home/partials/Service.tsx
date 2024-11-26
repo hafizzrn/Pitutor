@@ -8,13 +8,13 @@ const Service = () => {
   return (
     <section className="py-24 relative flex flex-col gap-10 md:gap--2">
       <section className=" container relative">
-        <img src={assets1} alt="" className="absolute top-0 right-32" />
+        <img src={assets1} alt="" className="absolute top-0 right-32 hidden md:block " />
       </section>
       <div className="text-center flex flex-col items-center gap-2">
         <h1 className="text-[24px] md:text-[50px] font-bold">
           Pilihan Privat Online Terbaik
         </h1>
-        <p className="text-base text-[18px] text-[#00000066]">
+        <p className="text-base text-[18px] text-[#00000066] px-2">
           Program les privat online dari Pitutor dirancang paripurna untuk
           setiap kebutuhan belajar.
         </p>
@@ -57,7 +57,7 @@ const Service = () => {
           </div>
         </div>
       </div>
-      <img src={assets2} alt="" className="absolute -bottom-14" />
+      <img src={assets2} alt="" className="absolute -bottom-14 hidden md:block" />
     </section>
   );
 };

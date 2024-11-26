@@ -4,16 +4,16 @@ import Button from "../../../components/Button";
 
 const Hero = () => {
   return (
-    <section className="relative py-8 md:py-16">
+    <section className="relative py-8 md:py-16 ">
       <img
         src={heroBgLeft}
         alt=""
-        className="absolute -z-20 top-10 md:top-20 left-0"
+        className="absolute -z-20 top-10 md:top-20 left-0 hidden md:block "
       />
       <img
         src={heroBgRight}
         alt=""
-        className="absolute -z-20 right-0 top-20 md:top-40"
+        className="absolute -z-20 right-0 top-20 md:top-40 hidden md:block "
       />
       <div className="flex justify-center items-center h-full">
         <div className="mt-16 md:max-w-[660px] text-center flex flex-col items-center gap-6">

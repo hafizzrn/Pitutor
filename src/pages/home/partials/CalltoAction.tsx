@@ -4,14 +4,12 @@ import Button from "../../../components/Button";
 const CalltoAction = () => {
   return (
     <section className="relative flex items-center justify-center py-16">
-      {/* Background Image */}
       <img 
         src={pic3} 
         alt="Call to Action" 
         className="absolute inset-0 w-full h-full object-cover" 
       />
       
-      {/* Content */}
       <div className="relative z-10 container flex flex-col items-center md:items-start text-center md:text-left text-white">
         <h1 className="text-[24px] md:text-[40px] font-semibold">
           Jadi Bagian dari Pitutor!

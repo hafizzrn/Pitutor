@@ -5,6 +5,7 @@ import Quotes from "./partials/Quotes";
 import About from "./partials/About";
 import Service from "./partials/Service";
 import Testimoni from "./partials/Testimoni";
+import CalltoAction from "./partials/CalltoAction";
 
 const HomePage = () => {
   return (
@@ -16,6 +17,7 @@ const HomePage = () => {
       <About />
       <Service />
       <Testimoni/>
+      <CalltoAction/>
     </>
   );
 };

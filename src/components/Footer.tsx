@@ -14,80 +14,80 @@ const Footer = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
           <div>
-            <h4 className="text-[12px] font-normal text-[#767676] mb-4">About Us</h4>
+            <h4 className="text-[14px] font-normal text-[#767676] mb-4">About Us</h4>
             <ul className="text-[14px] space-y-1">
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   What is a Pitutor
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Terms and conditions
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Privacy Policy
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Online Course
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Join Pitutor
                 </a>
               </li>
             </ul>
           </div>
           <div>
-            <h4 className="text-[12px] font-normal text-[#767676] mb-4">What we teach</h4>
+            <h4 className="text-[14px] font-normal text-[#767676] mb-4">What we teach</h4>
             <ul className="text-[14px] space-y-1">
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Marketing
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Financial
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Human Resources
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Information System
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:underline">
+                <a href="#" className=" hover:text-[#27A6D1] transition">
                   Computer Science
                 </a>
               </li>
             </ul>
           </div>
           <div>
-            <h4 className="text-[12px] font-normal text-[#767676] mb-4">Contact</h4>
+            <h4 className="text-[14px] font-normal text-[#767676] mb-4 ">Contact</h4>
             <p className="text-[14px] mb-2">+081234567890</p>
             <p className="text-[14px] mb-4">+081234567890</p>
-            <div className="flex space-x-4">
-              <a href="#" className="p-2 bg-gray-700 hover:bg-gray-600 rounded-full">
+            <div className="flex space-x-3 mt-8">
+              <a href="#" className="p-3 outline-none outline-neutral-600 outline-1 hover:bg-[#767676] rounded-full">
                 <FaFacebookF />
               </a>
-              <a href="#" className="p-2 bg-gray-700 hover:bg-gray-600 rounded-full">
+              <a href="#" className="p-3 outline-none outline-neutral-600 outline-1 hover:bg-[#767676] rounded-full">
                 <FaTiktok />
               </a>
-              <a href="#" className="p-2 bg-gray-700 hover:bg-gray-600 rounded-full">
+              <a href="#" className="p-3 outline-none outline-neutral-600 outline-1 hover:bg-[#767676] rounded-full">
                 <FaInstagram />
               </a>
-              <a href="#" className="p-2 bg-gray-700 hover:bg-gray-600 rounded-full">
+              <a href="#" className="p-3 outline-none outline-neutral-600 outline-1 hover:bg-[#767676] rounded-full">
                 <FaYoutube />
               </a>
             </div>

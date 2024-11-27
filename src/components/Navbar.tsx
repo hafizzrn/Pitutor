@@ -16,7 +16,7 @@ const Navbar = () => {
         <Button>Sign Up</Button>
       </div>
       <button
-        className="flex flex-col items center  lg:hidden text-[#00000080] focus:outline-none"
+        className="lg:hidden text-[#00000080] focus:outline-none"
         onClick={() => setIsMenuOpen(!isMenuOpen)}
       >
         <svg
@@ -37,7 +37,7 @@ const Navbar = () => {
         </svg>
       </button>
       <div
-        className={`absolute top-16 right-0 bg-white shadow-md w-full px-4 py-4 lg:hidden transition-all duration-300  ${
+        className={`absolute top-16 right-0 bg-white shadow-md w-full px-4 py-4 lg:hidden transition-all duration-300 flex flex-col items center ${
           isMenuOpen ? "opacity-100 visible" : "opacity-0 invisible"
         }`}
       >

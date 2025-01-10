@@ -6,10 +6,10 @@ const About = () => {
       <img src={aboutImage} alt="" />
       <div className="flex flex-col items-center xl:items-start">
         <div className="flex flex-col gap-4">
-          <i className="text-primary text-base md:text-xl">
+          <i className="text-primary text-base md:text-md">
             Les privat online dibimbing Edukator terbaik
           </i>
-          <h1 className="text-[24px] md:text-[50px] font-semibold">
+          <h1 className="text-[24px] md:text-[40px] font-semibold">
             Les Private Online & Interaktif
           </h1>
         </div>

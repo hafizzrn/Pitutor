@@ -6,7 +6,7 @@ const WhyChooseUs = () => {
   return (
     <section className="py-24 container flex flex-col gap-10 md:gap--20">
       <div className="text-center flex flex-col items-center gap-4">
-        <h1 className="text-[24px] md:text-[50px] font-semibold">
+        <h1 className="text-[24px] md:text-[40px] font-semibold">
           Kenapa memilih kami?
         </h1>
         <p className="text-base text-[18px] text-[#00000066]">

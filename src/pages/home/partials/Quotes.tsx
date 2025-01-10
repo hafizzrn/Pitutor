@@ -6,7 +6,7 @@ const Quotes = () => {
       <div className="container py-10 md:py-20 flex flex-col xl:flex-row gap-8 md:gap-40 justify-center items-center text-white">
         <div className="flex gap-2 md:gap-5 items-start">
           <img src={quoteImage} alt="" />
-          <h1 className="text-[24px] md:text-[48px] font-semibold text-white ">
+          <h1 className="text-[24px] md:text-[40px] font-semibold text-white ">
             Pembelajaran
             <br /> Online yang
             <br /> Dipersonalisasi

@@ -8,7 +8,7 @@ interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 
 export const variantStyles = {
   primary:
-    "bg-primary",
+    " text-white bg-primary",
   white: "bg-white text-black hover:bg-neutral-200",
   transparent: "bg-transparent hover:bg-black",
 };
@@ -29,7 +29,7 @@ const Button = ({
   return (
     <button
       disabled={disabled}
-      className={`${radiusStyles[rounded]} ${variantStyles[variant]} text-white py-3 px-8 whitespace-nowrap ${className}`}
+      className={`${radiusStyles[rounded]} ${variantStyles[variant]}  py-3 px-8 whitespace-nowrap ${className}`}
       {...props}
     >
       {children}

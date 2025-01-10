@@ -11,7 +11,7 @@ const Service = () => {
         <img src={assets1} alt="" className="absolute top-0 right-32 hidden md:block " />
       </section>
       <div className="text-center flex flex-col items-center gap-2">
-        <h1 className="text-[24px] md:text-[50px] font-bold">
+        <h1 className="text-[24px] md:text-[40px] font-semibold">
           Pilihan Privat Online Terbaik
         </h1>
         <p className="text-base text-[18px] text-[#00000066] px-2">
@@ -23,7 +23,7 @@ const Service = () => {
         <div>
           <img src={pic1} alt="" className="mb-4 w-full" />
           <div className="rounded-[10px] bg-[#EAF7FB] px-6 md:px-8 py-10 md:py-14 flex flex-col gap-5 md:gap-8 items-center text-center">
-            <span className="text-lg md:text-3xl text-black font-bold">
+            <span className="text-lg md:text-3xl text-black font-semibold">
               1on1 Tutoring
             </span>
             <p className="text-base text-[18px] text-[#404040]">
@@ -34,7 +34,7 @@ const Service = () => {
         </div>
         <div>
           <div className="rounded-[10px] bg-[#EAF7FB] px-6 md:px-8 py-10 md:py-14 flex flex-col gap-5 md:gap-8 items-center text-center">
-            <span className="text-lg md:text-3xl text-black font-bold">
+            <span className="text-lg md:text-3xl text-black font-semibold">
               Tanya Tutor
             </span>
             <p className="text-base text-[18px] text-[#404040]">
@@ -46,7 +46,7 @@ const Service = () => {
         <div>
           <img src={pic3} alt="" className="mb-4 w-full" />
           <div className="rounded-[10px] bg-[#EAF7FB] px-6 md:px-8 py-10 md:py-14 flex flex-col gap-5 md:gap-8 items-center text-center">
-            <span className="text-lg md:text-3xl text-black font-bold">
+            <span className="text-lg md:text-3xl text-black font-semibold">
               Pojok Prestasi
             </span>
             <p className="text-base text-[18px] text-[#404040]">
